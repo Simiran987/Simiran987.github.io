@@ -143,8 +143,8 @@ nav {
 }
 
 .card_works {
-  background: #FFFFFF;
-  border: 1px solid #DFE1E6;
+  background: #fff;
+  border: 1px solid #dfe1e6;
   border-radius: 16px;
   display: flex;
   flex-direction: column;
@@ -246,7 +246,7 @@ button {
   border: 1px solid #dfe1e6;
   border-radius: 8px;
   color: #396df2;
-  padding-left: 0px;
+  padding-left: 0;
   margin-bottom: 31.16px;
   margin-right: 172px;
 }
@@ -290,7 +290,7 @@ button {
 
 .get_resume {
   color: #6070ff;
-  border: 1px solid #6070FF;
+  border: 1px solid #6070ff;
   border-radius: 8px;
   margin: 12px;
 }
@@ -302,7 +302,7 @@ h3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
-  color: #000000;
+  color: #000;
   padding-left: 36px;
   margin-right: 64px;
   padding-bottom: 36px;
@@ -322,7 +322,7 @@ h3 {
   display: flex;
   align-items: center;
   color: #253858;
-  background: #F7F7F9;
+  background: #f7f7f9;
   border-radius: 8px;
   width: 303px;
   height: 66.72px;
