@@ -258,13 +258,13 @@ nav {
 }
 
 .button:active {
-  background: #2230D2;
+  background: #2230d2;
   border-radius: 8px;
 }
 
 .button:enabled {
   background: #fff;
-  border: 1px solid #7F8CFF;
+  border: 1px solid #7f8cff;
   border-radius: 8px;
 }
 
