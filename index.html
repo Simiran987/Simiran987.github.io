@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,7 +8,6 @@
     <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
     <title>Simiran's Portfolio</title>
 </head>
-
 <body>
     <div class="background">
         <header class="header">
@@ -56,7 +54,7 @@
                     <li class="skill">css</li>
                     <li class="skill">javaScript</li>
                 </ul>
-                <button class="button" type="see_button">See Project</button>
+                <button class="button" type="button">See Project</button>
             </div>
         </section>
         <div class="space"></div>
@@ -75,7 +73,7 @@
                     <li class="skill">css</li>
                     <li class="skill">javaScript</li>
                 </ul>
-                <button class="button" type="see_button">See Project</button>
+                <button class="button" type="button">See Project</button>
             </div>
         </section>
         <div class="space"></div>
@@ -113,7 +111,7 @@
                     <li class="skill">css</li>
                     <li class="skill">javaScript</li>
                 </ul>
-                <button class="button" type="see_button">See Project</button>
+                <button class="button" type="button">See Project</button>
             </div>
         </section>
     </div>
@@ -149,7 +147,22 @@
             </h3>
         </div>
     </section>
-    <section></section>
+    <footer class="contact-form">
+        <section class="Contact_form">
+            <h1 class="contact_me">Contact me</h1>
+            <p class="contact">If you have an application you are interested in developing, a feature that you need
+                built or a project that needs coding. I’d love to help with it.</p>
+            <form action="https://formspree.io/f/xeqdkkpj" method="POST">
+                <ul class="form_fields">
+                    <li><input class="name" name="for-name" type="text" placeholder="Your Name" maxlength="30" required>
+                    </li>
+                    <li><input class="email" name="for-email" type="email" placeholder="Your Email" required></li>
+                    <li><textarea class="message" name="for-msg" id="Msg" cols="30" rows="8"
+                            placeholder="Write your message here" maxlength="500" required></textarea></li>
+                </ul>
+                <button class="button" id="btn" type="button">Get In Touch</button>
+            </form>
+        </section>
+    </footer>
 </body>
-
 </html>
