@@ -253,7 +253,7 @@ nav {
 
 .button:hover {
   background: #6070ff;
-  box-shadow: 0px 8px 16px rgba(64, 83, 252, 0.24);
+  box-shadow: 0 8px 16px rgba(64, 83, 252, 0.24);
   border-radius: 8px;
 }
 
@@ -442,12 +442,12 @@ textarea {
 
 #btn:hover {
   background: #6070ff;
-  box-shadow: 0px 8px 16px rgba(245, 245, 247, 0.24);
+  box-shadow: 0 8px 16px rgba(245, 245, 247, 0.24);
   border-radius: 8px;
 }
 
 #btn:active {
-  background: #2230D2;
+  background: #2230d2;
   border-radius: 8px;
   color: #fff;
 }
