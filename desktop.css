@@ -468,13 +468,13 @@ textarea {
     padding: 0;
     margin: 0;
     font-family: "Poppins", sans-serif;
-        }
+  }
 
-    body {
+  body {
     background: #e5e5e5;
-    }
+  }
 
-    .background {
+  .background {
     background-image: url(./images/desktop_bg.png);
     background-size: cover;
     display: flex;
@@ -482,22 +482,22 @@ textarea {
     width: 1440px;
     height: 916px;
     border-bottom-left-radius: 67px;
-    }
+  }
 
-    .header {
+  .header {
     position: absolute;
     width: 1440px;
     height: 70px;
-    }
+  }
 
-    .logo a {
+  .logo a {
     display: block;
     margin-top: 25px;
     margin-left: 155px;
     text-decoration: none;
-    }
+  }
 
-    .logo h2 {
+  .logo h2 {
     width: 79px;
     height: 24px;
     font-style: normal;
@@ -508,9 +508,9 @@ textarea {
     align-items: center;
     text-align: center;
     color: #6070ff;
-    }
+  }
 
-    nav {
+  nav {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -518,25 +518,25 @@ textarea {
     width: 1440px;
     height: 72px;
     padding-right: 154px;
-    }
+  }
 
-    .ham {
+  .ham {
     display: none;
-    }
+  }
 
-    .menu_btn_burger {
+  .menu_btn_burger {
     display: none;
-    }
+  }
 
-    .menu-list {
+  .menu-list {
     list-style-type: none;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     gap: 32px;
-    }
+  }
 
-    .menu-list a {
+  .menu-list a {
     text-decoration: none;
     font-style: normal;
     font-weight: 500;
@@ -547,18 +547,18 @@ textarea {
     text-align: center;
     color: #344563;
     padding: 10px 12px;
-    }
+  }
 
-    .header2 {
+  .header2 {
     width: 879.62px;
     height: 219.59px;
     margin-top: 359px;
     margin-left: 260px;
     margin-bottom: 313.2px;
     margin-right: 300.38px;
-    }
+  }
 
-    .intro {
+  .intro {
     font-style: normal;
     font-weight: 700;
     font-size: 48px;
@@ -570,9 +570,9 @@ textarea {
     width: 920px;
     height: 122px;
     margin-top: 0;
-    }
+  }
 
-    .description {
+  .description {
     width: 920px;
     height: 98px;
     font-style: normal;
@@ -582,9 +582,9 @@ textarea {
     color: #344563;
     padding-top: 12px;
     padding-bottom: 12px;
-    }
+  }
 
-    .connect {
+  .connect {
     display: inline;
     width: 117px;
     height: 24px;
@@ -594,9 +594,9 @@ textarea {
     line-height: 24px;
     color: #7f8cff;
     padding-bottom: 14px;
-    }
+  }
 
-    .social_media_icons {
+  .social_media_icons {
     list-style-type: none;
     display: flex;
     flex-direction: row;
@@ -604,13 +604,13 @@ textarea {
     height: 20px;
     margin-top: 14px;
     gap: 20px;
-    }
+  }
 
-    .space_between {
+  .space_between {
     display: none;
-    }
+  }
 
-    .works {
+  .works {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -619,90 +619,90 @@ textarea {
     position: absolute;
     width: 1440px;
     height: 2694px;
-    left: 0px;
+    left: 0;
     top: 917px;
-    }
+  }
 
-    .project {
+  .project {
     width: 1156px;
     height: 496px;
     padding: 0;
-    }
+  }
 
-    img {
+  img {
     padding: 22px 24px;
-    }
+  }
 
-    .card_works {
+  .card_works {
     display: grid;
     justify-content: center;
     grid-template-columns: 50% 50%;
-    }
+  }
 
-    .desktop_project_img {
+  .desktop_project_img {
     display: block;
-    }
+  }
 
-    .project_img {
+  .project_img {
     display: none;
-    }
+  }
 
-    .project_title {
+  .project_title {
     font-style: normal;
     font-weight: 700;
     font-size: 40px;
     line-height: 52px;
     color: #091e42;
-    }
+  }
 
-    .project_details {
+  .project_details {
     font-style: normal;
     font-weight: 500;
     font-size: 18px;
     line-height: 24px;
     color: #344563;
     padding-top: 12px;
-    }
+  }
 
-    .space {
+  .space {
     display: none;
-    }
+  }
 
-    .canopy {
+  .canopy {
     list-style-type: none;
     font-style: normal;
     font-weight: 600;
     font-size: 13px;
     line-height: 16px;
     color: #344563;
-    }
+  }
 
-    .Back_End_Dev {
+  .Back_End_Dev {
     font-style: normal;
     font-weight: 600;
     font-size: 13px;
     line-height: 16px;
     color: #7a869a;
-    }
+  }
 
-    .year {
+  .year {
     font-style: normal;
     font-weight: 600;
     font-size: 13px;
     line-height: 16px;
     color: #7a869a;
-    }
+  }
 
-    .works p {
+  .works p {
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
     color: #344563;
     padding: 24px 24px;
-    }
+  }
 
-    .skills {
+  .skills {
     list-style-type: none;
     display: flex;
     flex-direction: row;
@@ -719,18 +719,18 @@ textarea {
     padding-left: 16px;
     padding-right: 108px;
     padding-bottom: 42px;
-    }
+  }
 
-    .skill {
+  .skill {
     background: #ebebff;
     display: flex;
     border-radius: 8px;
     padding: 4px 12px;
     height: 24px;
     width: fit-content;
-    }
+  }
 
-    .button {
+  .button {
     width: 130.25px;
     height: 41.68px;
     background: #fff;
@@ -740,43 +740,43 @@ textarea {
     padding-left: 0;
     margin-bottom: 31.16px;
     margin-right: 172px;
-    }
+  }
 
-    .button:hover {
+  .button:hover {
     background: #6070ff;
     box-shadow: 0 8px 16px rgba(64, 83, 252, 0.24);
     border-radius: 8px;
-    }
+  }
 
-    .button:active {
+  .button:active {
     background: #2230d2;
     border-radius: 8px;
-    }
+  }
 
-    .button:enabled {
+  .button:enabled {
     background: #fff;
     border: 1px solid #7f8cff;
     border-radius: 8px;
-    }
+  }
 
-    .button:disabled {
+  .button:disabled {
     border: 1px solid #c1c7d0;
     border-radius: 8px;
-    }
+  }
 
-    .reverse {
+  .reverse {
     display: flex;
     flex-direction: row-reverse;
     width: 1156px;
     height: 496px;
     padding-left: 48px;
-    }
+  }
 
-    .project_work {
+  .project_work {
     padding: 42px 24px;
-    }
+  }
 
-    .About_myself {
+  .About_myself {
     position: absolute;
     width: 1440px;
     height: 668px;
@@ -784,18 +784,18 @@ textarea {
     justify-content: center;
     grid-template-columns: 50% 50%;
     margin-top: 2690px;
-    }
+  }
 
-    .about {
+  .about {
     width: 134.15px;
     height: 92.24px;
     color: #172b4d;
     margin-top: 114px;
     padding-left: 142px;
     padding-right: 24px;
-    }
+  }
 
-    .about_me {
+  .about_me {
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -805,21 +805,21 @@ textarea {
     padding-right: 24px;
     padding-top: 12px;
     padding-bottom: 12px;
-    }
+  }
 
-    .About_myself .social_media_icons {
+  .About_myself .social_media_icons {
     margin-top: 26px;
-    }
+  }
 
-    .get_resume {
+  .get_resume {
     color: #6070ff;
     border: 1px solid #6070ff;
     border-radius: 8px;
     margin-left: 142px;
     margin-top: 40px;
-    }
+  }
 
-    h3 {
+  h3 {
     display: flex;
     align-items: center;
     font-style: normal;
@@ -832,19 +832,19 @@ textarea {
     padding-bottom: 36px;
     padding-top: 36px;
     justify-content: space-between;
-    }
+  }
 
-    .skill_list {
+  .skill_list {
     margin-right: 142px;
     width: 684px;
     height: 360px;
-    }
+  }
 
-    .languages {
+  .languages {
     padding-top: 24px;
-    }
+  }
 
-    .language {
+  .language {
     font-style: normal;
     font-weight: 500;
     font-size: 15px;
@@ -857,32 +857,32 @@ textarea {
     width: 303px;
     height: 66.72px;
     margin-right: 142px;
-    }
+  }
 
-    .About_myself .social_media_icons,
-    .About_myself .connect {
+  .About_myself .social_media_icons,
+  .About_myself .connect {
     padding-left: 142px;
     padding-bottom: 24px;
-    }
+  }
 
-    .arrow {
+  .arrow {
     border: solid black;
     border-width: 0 3px 3px 0;
     display: inline-block;
     padding: 3px;
-    }
+  }
 
-    .right {
+  .right {
     transform: rotate(-45deg);
     -webkit-transform: rotate(-45deg);
-    }
+  }
 
-    .down {
+  .down {
     transform: rotate(45deg);
     -webkit-transform: rotate(45deg);
-    }
+  }
 
-    .contact-form {
+  .contact-form {
     background-image: url(./images/desktop_contact_form.png);
     background-size: cover;
     background-repeat: no-repeat;
@@ -893,16 +893,16 @@ textarea {
     width: 1440px;
     height: 846px;
     margin-top: 3362px;
-    }
+  }
 
-    .Contact_form {
+  .Contact_form {
     background-image: none;
     border: none;
     width: 801px;
     height: 557px;
-    }
+  }
 
-    .contact_me {
+  .contact_me {
     font-style: normal;
     font-weight: 700;
     font-size: 40px;
@@ -914,9 +914,9 @@ textarea {
     color: #fff;
     margin-top: 0;
     margin-bottom: 12px;
-    }
+  }
 
-    .contact {
+  .contact {
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
@@ -925,55 +925,55 @@ textarea {
     color: #ebebff;
     margin-left: 24px;
     margin-right: 24px;
-    }
+  }
 
-    .form_fields {
+  .form_fields {
     list-style: none;
     display: flex;
     flex-direction: column;
     align-items: center;
     padding-top: 40px;
-    }
+  }
 
-    .form_fields li {
+  .form_fields li {
     margin-top: 10px;
     margin-bottom: 10px;
     width: 447px;
-    }
+  }
 
-    input,
-    textarea {
+  input,
+  textarea {
     width: 447px;
-    }
+  }
 
-    .name,
-    .email,
-    .message {
+  .name,
+  .email,
+  .message {
     padding: 15px 16px;
     border: 1px solid #cfd8dc;
     border-radius: 8px;
-    }
+  }
 
-    #btn {
+  #btn {
     margin-bottom: 127px;
     align-self: center;
-    }
+  }
 
-    #btn:hover {
+  #btn:hover {
     background: #6070ff;
     box-shadow: 0 8px 16px rgba(245, 245, 247, 0.24);
     border-radius: 8px;
-    }
+  }
 
-    #btn:active {
+  #btn:active {
     background: #2230d2;
     border-radius: 8px;
     color: #fff;
-    }
+  }
 
-    #btn:enabled {
+  #btn:enabled {
     background: #fff;
     border: 1px solid #7f8cff;
     border-radius: 8px;
-    }
+  }
 }
